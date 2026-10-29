@@ -1,0 +1,1 @@
+import{c as e,i as t,t as n}from"./jsx-runtime-D7H0j3bB.js";var r=n(),i=n=>t(e=>e.userReducer.users)?n.children:(0,r.jsx)(e,{to:`/login`});export{i as default};
